@@ -1,0 +1,7 @@
+quera = https://quera.org/course/add_to_course/course/18682
+password = fcp03
+
+Telegram = https://t.me/fcp4031
+group. = https://t.me/+3JAfjAe-pRQzMDI0
+sheet = https://docs.google.com/spreadsheets/d/1E93XqwuAPqaowKzJIfFBhETRnw6IFXgBmv4s3_voUGc/edit?usp=sharing
+aparat = http://aparat.com/fcp4031
